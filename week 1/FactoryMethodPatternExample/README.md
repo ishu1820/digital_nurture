@@ -1,0 +1,2 @@
+# output 
+![image](factory.png)
