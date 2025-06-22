@@ -1,0 +1,13 @@
+Q1. Explain the concept of recursion and how it can simplify certain problems.
+ANSWER.
+CONCEPT OF RECURSION: A function that calls itself.
+It is used when a function has to be used multiple times.
+
+SIMPLIFY PROBLEMS:
+Reduces complex logic by clean and easy code.
+Helps where repetitive execution is required.
+
+Q2. Discuss the time complexity of your recursive approach.
+ANSWER: Time complexity of my recursive approach is O(N).
+
+Because we are decreasing the years by 1. So if function is called for n years it will make N recursive calls.

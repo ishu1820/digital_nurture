@@ -1,0 +1,3 @@
+# output 
+![image](financial.png)
+
