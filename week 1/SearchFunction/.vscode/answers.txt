@@ -1,0 +1,30 @@
+Q1. Explain Big O Notation and how it helps in analyzing algorithms?
+Answer:
+
+Big O Notation is a mathematical way to describe the efficiency of an algorithm.
+It explains how its running time or space requirements grow as the input size increases. 
+It provides an upper bound, helping us compare algorithms. 
+Big O Notation allows us to choose the most efficient solution for a given problem.
+
+
+Q2. Describe the best, average and worst case scenarios for search operations.
+                     Best Case                  Average case                     Worst case
+Linear search          O(1)                        O(N)                            O(N)
+
+Binary search          O(1)                        O(LOG N)                        O(LOG N)
+
+Hash Table             O(1)                        O(1)                            O(N)
+
+Q3. Compare the time complexity of linear and binary search algorithms.
+Binary search is usually performed on large sized arrays and arrays that are sorted. Linear search algorithms are used for 
+sorted or unsorted arrays , they are usually efficient for small sized arrays.
+The best case time complexity of both binary and linear search algorithms are O(1). And the worst case is o(n) and O(Log n) 
+of linear search and binary search respectively. Therefore, usually binary search is used.
+
+
+Q4. Discuss which algorithm is more suitable for your platform and why?
+Answer:
+        BINARY SEARCH 
+        Binary search is more efficient and suitable for large product arrays, especially if the array is sorted.
+        Even the worst case scenario of binary search is O(Log n), which is better than linear search(worst case time complexity
+        is O(N)).
