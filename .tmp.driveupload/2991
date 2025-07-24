@@ -1,0 +1,28 @@
+0000000000000000000000000000000000000000 90ee5ad7f49289a4ef6772b0c6c24562c373032d ishu1820 <ishitamahajan9449@gmail.com> 1750513977 +0530	commit (initial): added week 1 singleton design implementation
+90ee5ad7f49289a4ef6772b0c6c24562c373032d cbc5526e78fcea51faf18247b140912ca2e85d30 ishu1820 <ishitamahajan9449@gmail.com> 1750514428 +0530	commit: image added of output in read me file
+cbc5526e78fcea51faf18247b140912ca2e85d30 a670e5eff12947ecbd523a2c7d1aee132295b089 ishu1820 <ishitamahajan9449@gmail.com> 1750521966 +0530	commit: this is an factory method design example
+a670e5eff12947ecbd523a2c7d1aee132295b089 ddb2c4fa08198338296205c2078971942a00da54 ishu1820 <ishitamahajan9449@gmail.com> 1750570235 +0530	commit: e-commerce platform search function
+ddb2c4fa08198338296205c2078971942a00da54 f7eedf7d07f0791f359893a5de2beda4b2020094 ishu1820 <ishitamahajan9449@gmail.com> 1750579754 +0530	commit: financial forecasting using recursion
+f7eedf7d07f0791f359893a5de2beda4b2020094 59d38c87d0ff732f752ff0fd040a319ddefbb711 ishu1820 <ishitamahajan9449@gmail.com> 1751106357 +0530	commit: control structures
+59d38c87d0ff732f752ff0fd040a319ddefbb711 0e41e688468aa4ad3ffb584b4cb65adf1c2e027c ishu1820 <ishitamahajan9449@gmail.com> 1751108379 +0530	commit: stored procedures
+0e41e688468aa4ad3ffb584b4cb65adf1c2e027c d8f676e946209b0d6dca0a5363fce32bfaf7f15d ishu1820 <ishitamahajan9449@gmail.com> 1751116036 +0530	commit: junit test exercise1.
+d8f676e946209b0d6dca0a5363fce32bfaf7f15d 09088b1e62f4d9b856993922d56e5def6ae8c6eb ishu1820 <ishitamahajan9449@gmail.com> 1751126400 +0530	commit: aaa pattern, test fixtures, setup and teardown methods
+09088b1e62f4d9b856993922d56e5def6ae8c6eb e7be03d903c7ae2ee4541191b2f97fd3e1ee7290 ishu1820 <ishitamahajan9449@gmail.com> 1751129081 +0530	commit: assertions
+e7be03d903c7ae2ee4541191b2f97fd3e1ee7290 b7771b2c73307b1209dcd47495e54bae8c15a926 ishu1820 <ishitamahajan9449@gmail.com> 1751133946 +0530	commit: mocking and stubbing
+b7771b2c73307b1209dcd47495e54bae8c15a926 f3d217b0fe19634c109e6afd86f788f661e7a287 ishu1820 <ishitamahajan9449@gmail.com> 1751181799 +0530	commit: verigying interactions
+f3d217b0fe19634c109e6afd86f788f661e7a287 dd41dfcfb05f1c596abe2140df27f34be2b3c0a7 ishu1820 <ishitamahajan9449@gmail.com> 1751184306 +0530	commit: logging framework added
+dd41dfcfb05f1c596abe2140df27f34be2b3c0a7 dcbc06e687f60e945b9baf84425970dc2b68c9a0 ishu1820 <ishitamahajan9449@gmail.com> 1751520996 +0530	commit: library management using spring
+dcbc06e687f60e945b9baf84425970dc2b68c9a0 7fe9ce7064ab6228caa38a32b1882d336a67d1ef ishu1820 <ishitamahajan9449@gmail.com> 1751549432 +0530	commit: implementing di in library management
+7fe9ce7064ab6228caa38a32b1882d336a67d1ef 5b9b790e324ceedb1ce4cbc0cb8686d2031883f3 ishu1820 <ishitamahajan9449@gmail.com> 1751557425 +0530	commit: configuring a maven project
+5b9b790e324ceedb1ce4cbc0cb8686d2031883f3 9cc6d1d4a0bf2c224cc3a00e691885dc616ac4c3 ishu1820 <ishitamahajan9449@gmail.com> 1751735921 +0530	commit: spring data jpa- quick example
+9cc6d1d4a0bf2c224cc3a00e691885dc616ac4c3 a6d273a5843d8843b7047c279326fcf79892cc17 ishu1820 <ishitamahajan9449@gmail.com> 1751796971 +0530	commit: difference between jpa, hibernate and spring jpa
+a6d273a5843d8843b7047c279326fcf79892cc17 8c6e8793a919ef95808cd70612736af4a7a901fb ishu1820 <ishitamahajan9449@gmail.com> 1752158170 +0530	commit: 1. spring-rest handson
+8c6e8793a919ef95808cd70612736af4a7a901fb b2f22c1d59b9a607ea3e0bbb17aaa2bfcb816926 ishu1820 <ishitamahajan9449@gmail.com> 1752243303 +0530	commit: hello world restful web services
+b2f22c1d59b9a607ea3e0bbb17aaa2bfcb816926 9c5fb7097cdd2471453ea248d19f79c13907d2b0 ishu1820 <ishitamahajan9449@gmail.com> 1752243916 +0530	commit: hello world restful web service
+9c5fb7097cdd2471453ea248d19f79c13907d2b0 71790b8f19fec0a354bf6585cd230b70cd832971 ishu1820 <ishitamahajan9449@gmail.com> 1752298834 +0530	commit: restful country web service
+71790b8f19fec0a354bf6585cd230b70cd832971 7a07d5c988cf3b10a79dfd88f60123ca21481976 ishu1820 <ishitamahajan9449@gmail.com> 1752305398 +0530	commit: rest- get country by country code
+7a07d5c988cf3b10a79dfd88f60123ca21481976 8e1ff6df1a3345332be1ebc84c6f949e0a715302 ishu1820 <ishitamahajan9449@gmail.com> 1752412701 +0530	commit: authentication service that returns JWT
+8e1ff6df1a3345332be1ebc84c6f949e0a715302 3c08b6c5430c137d762f171f415ffd4acada3b36 ishu1820 <ishitamahajan9449@gmail.com> 1753019441 +0530	commit: creating microservices for account and loan
+3c08b6c5430c137d762f171f415ffd4acada3b36 0d8a2b4b2e6ebb9e4337284ecf9d56e2a8dbbce7 ishu1820 <ishitamahajan9449@gmail.com> 1753180668 +0530	commit: 1.react js-hol
+0d8a2b4b2e6ebb9e4337284ecf9d56e2a8dbbce7 01b5b818fe2b0ce5b334f8b6f54a7a0fbf0ac64a ishu1820 <ishitamahajan9449@gmail.com> 1753182260 +0530	commit: 2- reactjs hol
+01b5b818fe2b0ce5b334f8b6f54a7a0fbf0ac64a 1c3a115ac8709188b502d864d4682786169b40ff ishu1820 <ishitamahajan9449@gmail.com> 1753371642 +0530	commit: 3. reactjs
